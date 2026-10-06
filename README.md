@@ -16,7 +16,7 @@ By day, I run IT for an auto-auction environment where software has to work acro
 - [bluebubbles-relay](https://github.com/ausboss/bluebubbles-relay): gives an AI agent a phone through a safety-gated BlueBubbles CLI.
 - [5250ng](https://github.com/ausboss/5250ng): a modern TN5250 terminal for IBM i that I contribute to.
 - [agent-harness-resources](https://github.com/ausboss/agent-harness-resources): skills, agents, hooks and plugins for coding-agent harnesses (mostly stale).
-- 
+  
 ## Earlier work
 
 I've been building with local models since 2023. A few old projects:
