@@ -1,4 +1,4 @@
-# I'm AusBoss
+# I'm AusBoss (Austin)
 
 I make ComfyUI nodes, workflows and LoRAs for image and video work. I also build tools that let AI agents work with real systems.
 
